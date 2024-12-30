@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\gym_console\gym_console\bin\Debug\gym_console.exe.config
+C:\Users\Admin\source\repos\gym_console\gym_console\bin\Debug\gym_console.exe
+C:\Users\Admin\source\repos\gym_console\gym_console\bin\Debug\gym_console.pdb
+C:\Users\Admin\source\repos\gym_console\gym_console\obj\Debug\gym_console.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\gym_console\gym_console\obj\Debug\gym_console.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\gym_console\gym_console\obj\Debug\gym_console.exe
+C:\Users\Admin\source\repos\gym_console\gym_console\obj\Debug\gym_console.pdb
